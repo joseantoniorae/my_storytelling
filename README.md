@@ -31,7 +31,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](WhatsApp Image 2025-03-07 at 8.01.06 PM.jpeg)
+![](BeowfuldeEon.jpeg)
 
 Nombre: 
 
