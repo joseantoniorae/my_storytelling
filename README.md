@@ -10,13 +10,13 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: José Antonio
-- :woman: minombre
-- :woman: minombre 
+- :man: José Antonio García
+- :woman: Africa Olías
+- :man: Victor Malo
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: https://app.lumi.education/run/q0dtP7
 
 
 Tipo/Género:  
@@ -31,7 +31,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](img-nobody.png)
+![](WhatsApp Image 2025-03-07 at 8.01.06 PM.jpeg)
 
 Nombre: 
 
