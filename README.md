@@ -16,7 +16,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: https://app.lumi.education/run/q0dtP7
+URL (link) del proyecto en Github: https://app.Lumi.education/run/h2vn7e
 
 
 Tipo/Género:  
