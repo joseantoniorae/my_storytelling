@@ -10,9 +10,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: José Antonio García
-- :woman: Africa Olías
-- :man: Victor Malo
+- :chicken: José Antonio García
+- :octopus: Africa Olías
+- :wolf: Victor Malo
 
 
 Proyecto (código): 
