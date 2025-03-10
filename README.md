@@ -33,14 +33,14 @@ Tipo/Género:
 
 ![](https://github.com/joseantoniorae/my_storytelling/blob/main/Beowful%20de%20Eon.jpeg?raw=true)
 
-Nombre: 
+Nombre: Beowulf de Eón (El Colmillo Dorado)
 
 
 ### Historia
 
 
 ### TagLine
-
+"Todo el mundo ve lo que aparentas ser, pero pocos experimentan lo que realmente eres" -  Maquiavelo
 
 ### Conflicto 
 
