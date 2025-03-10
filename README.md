@@ -31,7 +31,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/joseantoniorae/my_storytelling/blob/main/Beowful%20de%20Eon.jpeg?raw=true)
+![](https://github.com/joseantoniorae/my_storytelling/blob/main/Ficha%20personaje.jpeg?raw=true)
 
 Nombre: Beowulf de Eón (El Colmillo Dorado)
 
