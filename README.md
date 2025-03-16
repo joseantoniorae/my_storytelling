@@ -30,7 +30,7 @@ En un mundo distópico, Beowulf d'Eón también conocido como: El Colmillo Dorad
 
 ### Personaje
 
-![](https://github.com/joseantoniorae/my_storytelling/blob/main/Ficha%20personaje.jpeg?raw=true)
+![](Beowful de Eon.jpeg)
 
 ### Historia
 
@@ -43,10 +43,10 @@ En una sociedad donde se ha decretado un cierre de fronteras por causa de una en
 
 ### Productos
 
-- Personaje:![](https://github.com/joseantoniorae/my_storytelling/blob/main/Ficha%20personaje.jpeg?raw=true)
+- Personaje: https://app.lumi.education/api/v1/run/h2vn7e/embed
 
 
-- Banner/Teaser:  https://app.lumi.education/api/v1/run/h2vn7e/embed
+- Banner/Teaser:  (enlace) 
 
 
 - Storytelling: (enlace) 
