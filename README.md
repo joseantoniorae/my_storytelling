@@ -15,7 +15,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: https://app.Lumi.education/run/h2vn7e
+URL (link) del proyecto en Github: https://github.com/joseantoniorae/El_ladron_de_ideas
 
 
 Tipo/Género:  
@@ -30,7 +30,7 @@ En un mundo distópico, Beowulf d'Eón también conocido como: El Colmillo Dorad
 
 ### Personaje
 
-![](Beowful de Eon.jpeg)
+![](BeowfuldeEon.jpg)
 
 ### Historia
 
