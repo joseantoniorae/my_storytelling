@@ -47,7 +47,7 @@ En una sociedad donde se ha decretado un cierre de fronteras por causa de una en
 - Personaje:![](https://github.com/joseantoniorae/my_storytelling/blob/main/Ficha%20personaje.jpeg?raw=true)
 
 
-- Banner/Teaser:  [GitHub]https://app.lumi.education/api/v1/run/h2vn7e/embed
+- Banner/Teaser:  https://app.lumi.education/api/v1/run/h2vn7e/embed
 
 
 - Storytelling: (enlace) 
