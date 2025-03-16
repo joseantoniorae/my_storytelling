@@ -30,7 +30,7 @@ Beowulf d'Eón, el célebre héroe de guerra conocido como "El Colmillo Dorado",
 
 ### Personaje
 
-![download](https://github.com/joseantoniorae/El_ladron_de_ideas/blob/main/Beowful%20de%20Eon.jpeg)
+![download](https://github.com/joseantoniorae/El_ladron_de_ideas/blob/main/Beowulf_Ficha.jpeg)
 
 ![download](https://github.com/joseantoniorae/El_ladron_de_ideas/blob/main/Tobias_Ficha.png)
 
@@ -38,10 +38,10 @@ Beowulf d'Eón, el célebre héroe de guerra conocido como "El Colmillo Dorado",
 
 
 ### TagLine
-"Todo el mundo ve lo que aparentas ser, pero pocos experimentan lo que realmente eres" -  Maquiavelo
+Un héroe forjado en mentiras. Un poder que lo hará invencible… o lo destruirá.
 
 ### Conflicto 
-En una sociedad donde se ha decretado un cierre de fronteras por causa de una enfermedad mundial. El protagonosta trata de robar y matar en busca de Tobías un chico que es capaz de leer mentes.
+Beowulf acepta la misión de salvar la ciudad, pero su verdadero objetivo es robar la telepatía de Tobías.
 
 ### Productos
 
