@@ -26,7 +26,7 @@ Tipo/Género:
 
 
 ## Resumen
-En un mundo distópico, Beowulf d'Eón también conocido como: El Colmillo Dorado. Es un justiciero malvado, que desea tener todos los superpoderes de este mundo. Su misión encontrar a Tobias, un chico cualquiera con el poder de leer la mente para acabar con la hipocresía del ser humano.
+Beowulf d'Eón, el célebre héroe de guerra conocido como "El Colmillo Dorado", ha construido su leyenda robando un poder tras otro en su imparable ascenso. Cuando le encomiendan salvar una ciudad al borde del desastre, todos lo ven como la última esperanza, pero él tiene un propósito oculto: obtener la última habilidad que le falta para ser invencible. Su objetivo es Tobías, un joven con el don de leer mentes. Fingiendo ser el salvador de la ciudad, Beowulf se acerca a él, listo para traicionarlos a todos en el momento perfecto y completar su colección de poderes.
 
 ### Personaje
 
