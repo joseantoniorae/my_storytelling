@@ -27,7 +27,7 @@ Tipo/Género:
 
 
 ## Resumen
-
+En un mundo distópico, Beowulf d'Eón también conocido como: El Colmillo Dorado. Es un justiciero malvado, que desea tener todos los superpoderes de este mundo. Su misión encontrar a Tobias, un chico cualquiera con el poder de leer la mente para acabar con la hipocresía del ser humano.
 
 ### Personaje
 
@@ -40,11 +40,11 @@ Tipo/Género:
 "Todo el mundo ve lo que aparentas ser, pero pocos experimentan lo que realmente eres" -  Maquiavelo
 
 ### Conflicto 
-
+En una sociedad donde se ha decretado un cierre de fronteras por causa de una enfermedad mundial. El protagonosta trata de robar y matar en busca de Tobías un chico que es capaz de leer mentes.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje:![](https://github.com/joseantoniorae/my_storytelling/blob/main/Ficha%20personaje.jpeg?raw=true)
 
 
 - Banner/Teaser:  (enlace) 
