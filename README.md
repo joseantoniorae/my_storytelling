@@ -32,6 +32,8 @@ Beowulf d'Eón, el célebre héroe de guerra conocido como "El Colmillo Dorado",
 
 ![download](https://github.com/joseantoniorae/El_ladron_de_ideas/blob/main/Beowful%20de%20Eon.jpeg)
 
+(https://github.com/joseantoniorae/El_ladron_de_ideas/blob/main/Tobias_Ficha.png)
+
 ### Historia
 
 
