@@ -30,7 +30,7 @@ En un mundo distópico, Beowulf d'Eón también conocido como: El Colmillo Dorad
 
 ### Personaje
 
-![personaje](WhatsApp Image 2025-03-07 at 8.01.06 PM.jpeg)
+![] (Beowful de Eon.jpeg)
 
 ### Historia
 
