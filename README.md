@@ -41,7 +41,7 @@ Beowulf d'Eón, el célebre héroe de guerra conocido como "El Colmillo Dorado",
 Un héroe forjado en mentiras. Un poder que lo hará invencible… o lo destruirá.
 
 ### Conflicto 
-Beowulf acepta la misión de salvar la ciudad, pero su verdadero objetivo es robar la telepatía de Tobías.
+Beowulf acepta la misión de salvar la ciudad, pero su verdadero objetivo es robar la habilidad de leer mentes de Tobías.
 
 ### Productos
 
