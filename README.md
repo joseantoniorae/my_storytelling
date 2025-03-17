@@ -45,7 +45,7 @@ Beowulf acepta la misión de salvar la ciudad, pero su verdadero objetivo es rob
 
 ### Productos
 
-- Personaje: https://app.lumi.education/api/v1/run/h2vn7e/embed
+- Personaje: (https://app.Lumi.education/run/h2vn7e)
 
 
 - Banner/Teaser:  (enlace) 
