@@ -47,7 +47,7 @@ Beowulf acepta la misión de salvar la ciudad, pero su verdadero objetivo es rob
 
 - Personaje: https://app.Lumi.education/run/h2vn7e
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:   https://www.figma.com/proto/CvHU424DJU0C403t9WDl6W/Beowulf-D-Eon?node-id=112-593&p=f&t=dbjpq9PSt0E75cjZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=112%3A593
 
 
 - Storytelling: (enlace) 
