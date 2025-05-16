@@ -50,7 +50,7 @@ Beowulf acepta la misión de salvar la ciudad, pero su verdadero objetivo es rob
 - Teaser:   [Disponible en fitma](https://www.figma.com/proto/CvHU424DJU0C403t9WDl6W/Beowulf-D-Eon?node-id=112-593&p=f&t=dbjpq9PSt0E75cjZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=112%3A593
 )
 
-- Storytelling: [Disponible en Arcweave](https://arcweave.com/app/project/DvlO2YX0dx?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.684946&coords=-14623.992356808034,-16150.259987792968)
+- Storytelling: [Disponible en Arcweave](https://arcweave.com/app/project/kM6NYxWEm3?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.150000&coords=-20691.5782968375,-19783.628045152494)
 
 
 
